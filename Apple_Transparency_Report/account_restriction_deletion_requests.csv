@@ -1,0 +1,24 @@
+TR Period,TR Start Date,TR End Date,Country/Region,Account Restriction/ Account Deletion Requests Received,Accounts Specified in the Requests,Requests Rejected/Challenged where No Action Taken,Requests where Account Restricted,Requests where Account Deleted
+2014 H2,7/1/14,12/31/14,United States of America,2, -,2, -,0
+2015 H1,1/1/15,6/30/15,United States of America,1, -,0, -,0
+2015 H2,7/1/15,12/31/15,United States of America,3, -,0, -,3
+2016 H1,1/1/16,6/30/16,United States of America,3, -,0, -,3
+2016 H2,7/1/16,12/31/16,Hong Kong,1,1,0,1,0
+2016 H2,7/1/16,12/31/16,India,3,3,3,0,0
+2016 H2,7/1/16,12/31/16,Japan,2,2,1,0,1
+2016 H2,7/1/16,12/31/16,Sweden,3,6,1,0,2
+2016 H2,7/1/16,12/31/16,Switzerland,2,3,2,0,0
+2016 H2,7/1/16,12/31/16,United States of America,3,3,1,0,2
+2017 H1,1/1/17,6/30/17,Switzerland,13,73,0,13,0
+2017 H1,1/1/17,6/30/17,United States of America,1,1,0,1,0
+2017 H2,7/1/17,12/31/17,Switzerland,7,10,0,7,0
+2018 H1,1/1/18,6/30/18,Switzerland,1,4,0,1,0
+2018 H1,1/1/18,6/30/18,United States of America,4,5,0,2,2
+2018 H2,7/1/18,12/31/18,Denmark,1,1,1,0,0
+2018 H2,7/1/18,12/31/18,Germany,2,2,2,0,0
+2018 H2,7/1/18,12/31/18,Hong Kong,1,1,1,0,0
+2018 H2,7/1/18,12/31/18,India,1,1,1,0,0
+2018 H2,7/1/18,12/31/18,Italy,1,1,1,0,0
+2018 H2,7/1/18,12/31/18,Japan,1,1,1,0,0
+2018 H2,7/1/18,12/31/18,United Kingdom,2,2,0,0,0
+2018 H2,7/1/18,12/31/18,United States of America,6,13,1,2,2

@@ -1,0 +1,31 @@
+Timestamp,A0nymous,First-Name,Last-Name,Email-Address,Referrers-Email-Address,Age,Gender,Occupation, Watch,Snapchat Glasses,Levi's Tucker Jacket,Apple-collects-data,Can-ask-apple-for-data,Delete-data-apple,limit-ad-tracking-apple,reset-digital-fingerprint-apple,share-data-with-apple,Apple-share-data-for-marketing-purpose,profile-user-apple,Enabled-ad-tracking-question,Reset-digital-fingerprint-question,Change-perspective-apple,Better-protect-apple,Call-logs,Contacts,Credit-Card-Information,Facebook-Twitter-Instagram-profile,Health-and-Fitness-Data,IP-address,Location,Photos,Videos,Voice-Recordings,Your-friend's-family's-information,travel-log
+10/21/2019 20:00:46,0,Prayani,Singh,psingh25@ncsu.edu,psingh25@ncsu.edu,26,Female,Student,1,0,0,0,1,0,0,0,0,0,1,0,2,0,1,1,1,0,0,1,1,1,1,0,1,1,0
+10/21/2019 20:05:50,0,Khushi,Patel,khushippatel22@gmail.com,Dvija Patel,22,Female,Student,1,0,0,0,0,0,0,0,1,0,1,-1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+10/21/2019 21:12:31,0,Sahil,Mehta,mehtasahil31@gmail.com,,23,Male,Student,1,1,1,1,1,0,1,1,1,1,1,-1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+10/22/2019 8:06:15,0,Sahil,Mehta,mehtasahil31@gmail.com,,23,Male,Student,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,1,0
+10/21/2019 20:16:13,0,Toral,Patel,toralpatel1970@yahoo.com,dvijapatel@gmail.com Dvija patel,45,Female,Working professional,1,0,0,1,1,0,0,0,0,0,1,1,3,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+10/21/2019 20:00:41,1,,,,,26,Female,Student,0,1,1,1,1,0,1,1,0,1,1,0,1,1,1,1,1,0,0,0,1,1,0,0,1,0,0
+10/24/2019 9:16:33,0,Nida,Syed,nsyed@ncsu.edu,,24,Female,Student,1,0,1,1,0,0,0,0,0,1,1,-1,0,1,1,1,1,0,0,1,1,1,0,0,0,0,0
+10/22/2019 1:01:26,0,Swathi,Dinakaran,sdinaka@ncsu.edu,,23,Female,Student,0,0,1,1,1,1,1,0,0,1,1,0,1,2,1,1,1,0,0,1,0,1,0,0,1,0,0
+10/21/2019 20:06:27,1,,,,,22,Prefer 0t to say,Student,1,1,1,1,1,0,1,1,1,1,1,0,3,0,1,1,1,1,1,1,1,1,1,0,1,0,0
+10/21/2019 20:42:17,0,Taric,Jain,taricjain@outlook.com,dvijapatel@gmail.com,22,Male,Working professional,0,0,0,1,1,0,0,0,1,0,1,-1,0,2,1,1,1,0,0,1,1,1,0,0,0,0,0
+10/21/2019 23:54:59,0,Ritul,Patel,ritulpatel17699@gmail.com,ritulpatel17699@gmail.com,22,Male,Working professional,0,1,0,1,0,0,0,1,1,1,0,-1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0
+10/21/2019 19:58:52,0,Dvija,Patel,dpatel26@ncsu.edu,,23,Female,Student,1,0,0,1,0,0,1,1,1,1,1,-1,0,2,1,1,1,0,0,1,0,1,0,0,1,0,0
+10/21/2019 20:17:07,0,Dhruti,Patel,Tuf43416@temple.edu,Dvijapatel@gmail.com   Dvija Patel,24,Female,Student,1,0,0,1,1,0,0,0,1,1,1,-1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,0
+10/21/2019 20:23:26,0,Sruti,Josyula,jsruti@yahoo.com,dvijapatel@gmail.com,21,Female,Working professional,1,0,0,1,0,0,0,0,0,1,0,-1,0,2,1,1,1,1,1,1,1,1,1,1,1,1,0
+10/21/2019 20:29:58,0,Sarika,Patel,Shp0016@auburn.edu,Dvija Patel,21,Female,Student,1,0,0,1,0,0,0,0,1,1,1,-1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+10/21/2019 20:38:51,0,Ravneet ,Kaur ,ravneet1316@gmail.com,Dvija Patel,23,Female,Working professional,1,0,0,1,1,0,1,0,1,1,1,0,,0,1,1,1,1,1,1,1,1,1,1,1,1,0
+10/21/2019 20:49:40,0,anup,patel,apatel13@ncsu.edu,apatel13@ncsu.edu,26,Male,Student,0,0,1,1,0,0,0,0,1,1,1,-1,0,0,2,1,1,1,1,1,1,1,1,1,1,1,1
+10/21/2019 21:34:42,0,Sai,Dasika,szd0053@auburn.edu,Dvija Patel,21,Male,Working professional,1,0,0,1,1,1,1,1,1,0,0,-1,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0
+10/21/2019 21:38:55,0,Ram ,Gupta ,S870135@stu.mps-al.org,Dvija ,22,Male,Student,1,0,0,1,0,0,1,1,0,1,0,1,5,0,1,1,0,0,0,1,0,0,1,0,0,0,0
+10/21/2019 22:06:13,1,,,,,20,Female,Student,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,0,1,0
+10/21/2019 22:10:15,0,Nisha ,Javeri,Njaveri182@gmail.com,Dvija Patel ,20,Female,Student,0,1,0,1,0,0,0,0,0,1,1,0,1,2,1,1,1,0,1,0,1,1,1,0,1,1,0
+10/21/2019 22:39:44,0,Pragya,Pathak,pragya.2705@gmail.com,,23,Female,Working professional,1,0,0,1,1,1,0,1,0,0,1,-1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,0
+10/22/2019 5:45:47,0,Saharsh,Tripathi,saharsh.tri04@gmail.com,saharsh.tri04@gmail.com,23,Male,Student,1,0,0,1,1,1,1,1,1,1,0,-1,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0
+10/22/2019 6:47:39,0,YATINDRA,MISHRA,yatindra.manas@gmail.com,yatindra.manas@gmail.com,23,Male,Student,1,0,0,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+10/22/2019 8:48:56,0,Siddharth ,Bagdi ,sid.bagdi55@gmail.com,sid.bagdi55@gmail.com,23,Male,Working professional,1,0,0,1,0,0,1,1,1,0,1,-1,0,2,1,1,1,1,1,1,1,1,1,1,1,1,0
+10/22/2019 13:03:59,0,Nihar ,Dharia ,ndharia@ncsu.edu,,23,Male,Student,1,0,0,1,1,1,0,0,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0
+10/22/2019 19:42:58,0,Pooja,Patel,pkpatel5@ncsu.edu,pkpatel5@ncsu.edu,24,Female,Student,1,0,0,1,0,0,1,0,0,1,1,-1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0
+10/22/2019 20:33:36,0,Bhumika,Patel,bhumiip96@gmail.com,Dvija Patel,23,Female,Student,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+10/27/2019 16:22:06,1,,,,,24,Male,Student,1,0,0,1,1,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,1,1,1,1,0,1,0
+10/24/2019 10:44:27,1,,,,,24,Male,Student,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0
