@@ -1,0 +1,6 @@
+
+  @ARTICLE{TROSHYNSKI2011,  author={TROSHYNSKI, Emily; LEE, Charlotte; DOURISH, Paul},  title={Accountabilities of Presence: Reframing Location-Based Systems : Technologies, Droit et Justice},  journal={Droit et cultures},  year={2011},  affiliation={Donald Bren School of Information and Computer Sciences de l'Université de Californie, United States; Université de Washington, United States; Département de criminologie, de droit et de société de l'Université de Californie, Irvine, United States},  descriptors={Corporéité; Espace; Informatique; Omniprésence; Temps; Vie privée ; GPS; Géo-localisation; Liberté conditionnelle; Mobilité},  subject={Histoire des sciences et des techniques[522-]; Généralités[522-1]; Sociologie[522-44]},  issn={0247-9788},  language={English},
+  document_type={Article},
+  inist_number={24266571} 
+  }
+    
