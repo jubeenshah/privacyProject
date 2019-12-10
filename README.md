@@ -130,7 +130,7 @@ Levi’s Tucker Smart Jacket. Each category was reviewed by different
 people, in general, and hence needed to be reviewed as so.
 
 ![Survey Design
-Flowchart<span label="flowchart"></span>](Flowchart_privacyProject.png)
+Flowchart<span label="flowchart"></span>](./images/Flowchart_privacyProject.png)
 
 # Analysis
 
@@ -162,7 +162,7 @@ other Apple products. Participants are more likely to find information
 that they have easy access to, rather than the information they have to
 search for like the previous question.
 
-![User Responses](00-chart.png)
+![User Responses](./images/00-chart.png)
 
 For the question “Do you think you can reset your digital fingerprint
 generated for your Apple Watch?” roughly **40%** of the participants
@@ -180,7 +180,7 @@ the general norm that companies usually follow about data sharing
 practices. We say the general norm because **60%** of the participants
 out of the **60%** had not taken the privacy course with us.
 
-![Participant Awareness](01-AwarenessAmongstParticipants-Apple.png)
+![Participant Awareness](./images/01-AwarenessAmongstParticipants-Apple.png)
 
 Amongst our participants **50%** already owned an Apple watch. So we
 first focus on the remainder of the **50%** participants. At the
@@ -212,7 +212,7 @@ correlation is not causation in all cases, the data, in this case, does
 tip the scale in the other direction.
 
 ![Correlation matrix for change of
-perspective<span label="fig:change"></span>](05-changePerspective-1.png)
+perspective<span label="fig:change"></span>](./images/05-changePerspective-1.png)
 
 In Fig [3](#fig:changeDos) on page , we see a similar trend, as in the
 previous one. The categories for Call-logs, Photos, and Videos have a
@@ -237,7 +237,7 @@ Apple until explicitly shared with Apple via either the Health App or
 the Research App.
 
 ![Correlation matrix for change of
-perspective<span label="fig:changeDos"></span>](06-changePerspective-2.png)
+perspective<span label="fig:changeDos"></span>](./images/06-changePerspective-2.png)
 
 We also carried out another survey that gauged people into different
 categories, according to Westin’s index. While deciding which questions
@@ -252,7 +252,7 @@ institutions that use health data for health studies and advertisers
 that use the data for digital marketing.
 
 ![Responses from second
-survey<span label="fig:responses"></span>](07-chart2.png)
+survey<span label="fig:responses"></span>](./images/07-chart2.png)
 
 15 people replied to the survey. **60%** of which do not own a fitness
 tracker. **60%** of the participants that own a fitness tracker were
@@ -273,7 +273,7 @@ relatively low because of the age of the participants, which was
 relatively young.
 
 ![Classifying users into
-group<span label="fig:responsesSecondSurvey"></span>](09-chart.png)
+group<span label="fig:responsesSecondSurvey"></span>](./images/09-chart.png)
 
 ## Snap Spectacles
 
@@ -291,7 +291,7 @@ privacy and encryption policies, user knowledge about what types of data
 could be collected at what times, data deletion policies, etc.
 
 ![Do you think Snap collects data from your
-Spectacles?](snap_data_collect.png)
+Spectacles?](./images/snap_data_collect.png)
 
 <span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
