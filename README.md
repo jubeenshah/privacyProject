@@ -1,52 +1,14 @@
----
-abstract: |
-  [\[abstract\]]{#abstract label="abstract"} Wearable Technology refers
-  to the category of gadgets worn by the user to provide user-specific
-  information to the device it pairs. Wearables have become popular in
-  several high-impact domains such as healthcare, security, and
-  entertainment.
-
-  Wearables are essentially sensor nodes collecting data for the master
-  server (the smartphone). Smartwatches, glasses, clothing, and even
-  jewelry are some of the examples. On the one hand, they provide the
-  opportunity to enhance efficiency across industries by continuously
-  monitoring human activity. However, they also pose security concerns
-  in comparison to other computing devices, because these wearable
-  technologies are so much more personal. The amount and type of data
-  collected by these devices may be used to reveal one's identity, and
-  therefore security challenges are critical to their usage. Thus, the
-  primary goal of this project is to identify what are the privacy
-  concerns of users, how they perceive the data collection, and what is
-  their level of awareness with regards to the data usage and privacy
-  policies of these devices.
-
-  We studied the implications caused by a broad category of these
-  devices, in terms of security and privacy vulnerabilities. We discuss
-  the various types of data collected, the frequency of data collection,
-  and the privacy risks posed by them based on the kind of wearable used
-  in this paper.
-author:
-- Gautam Worah
-- Jubeen Shah
-- Sujal
-bibliography:
-- 'sample-base.bib'
-title: Privacy Implications of Smart Wearable Devices
----
-
-Description and motivation {#motivation}
-==========================
+# Description and motivation
 
 As noted in the abstract The ability of smart wearables to ubiquitously
 and continuously collect and transmit data to their sister devices
-(smartphones, other IoT devices) poses many privacy risks
-[@Paul:2014:PIW:2659651.2659683]. Their sensitive nature accentuates
-these privacy risks as they can often reveal vital information about an
-individual's health, their daily routine, and the people they interact
-with. Moreover, since the mass adoption of these devices is recent, most
-users are still unaware of the potential implications of continuous
-monitoring, storage, profiling, and analysis of health and personal data
-[@10.1007/978-3-662-48051-9_17].
+(smartphones, other IoT devices) poses many privacy risks . Their
+sensitive nature accentuates these privacy risks as they can often
+reveal vital information about an individual’s health, their daily
+routine, and the people they interact with. Moreover, since the mass
+adoption of these devices is recent, most users are still unaware of the
+potential implications of continuous monitoring, storage, profiling, and
+analysis of health and personal data .
 
 The answers to the questions regarding user awareness, privacy concerns,
 and perception of data collection methodologies helped us understand
@@ -56,63 +18,50 @@ concerning the types and extent of data that can be collected and what
 would be the best means to educate them to protect their sensitive
 information is.
 
-In section **[2](#literatureReview){reference-type="ref"
-reference="literatureReview"}** we will discuss about the the literature
-reviewed, followed by the approach we followed in section
-**[3](#approach){reference-type="ref" reference="approach"}**. Then we
-will proceed to describing the study design in brief in section
-**[4](#studyDesign){reference-type="ref" reference="studyDesign"}**. We
-would then discuss the results from survey in section
-**[5.1](#appleAnalysis){reference-type="ref"
-reference="appleAnalysis"}**,
-**[5.2](#snapchatAnalysis){reference-type="ref"
-reference="snapchatAnalysis"}**, and
-**[5.3](#levisAnalysis){reference-type="ref"
-reference="levisAnalysis"}**. Finally we describe the limitations and
-future work of the project in Section
-**[6](#limitationAndFutureWork){reference-type="ref"
-reference="limitationAndFutureWork"}**.
+In section **[2](#literatureReview)** we will discuss about the the
+literature reviewed, followed by the approach we followed in section
+**[3](#approach)**. Then we will proceed to describing the study design
+in brief in section **[4](#studyDesign)**. We would then discuss the
+results from survey in section **[5.1](#appleAnalysis)**,
+**[5.2](#snapchatAnalysis)**, and **[5.3](#levisAnalysis)**. Finally we
+describe the limitations and future work of the project in Section
+**[6](#limitationAndFutureWork)**.
 
-Literature Review {#literatureReview}
-=================
+# Literature Review
 
 Privacy and security concerns have been discussed for a long time, but
-the implications concerning wearable devices are still relatively new
-[@Mancini:2009:SPE:1620545.1620547]. In general, smart devices
-continuously collect data via sensors, and their intricate designs
-accrue various challenges in providing user privacy. Although many
-studies have been focused on mobile devices, and applications, there is
-still a vast scope in understanding the privacy behaviors of wearable
-technology[@TROSHYNSKI2011][@Hoyle:2014:PBL:2632048.2632079]. This is
-mainly because these sensors can store and process the user's sensitive
-information. And this information could infer potential risks,
-especially when combined with any kind of auxiliary data from other
-sources [@Raij:2011:PRE:1978942.1978945].
+the implications concerning wearable devices are still relatively new .
+In general, smart devices continuously collect data via sensors, and
+their intricate designs accrue various challenges in providing user
+privacy. Although many studies have been focused on mobile devices, and
+applications, there is still a vast scope in understanding the privacy
+behaviors of wearable technology. This is mainly because these sensors
+can store and process the user’s sensitive information. And this
+information could infer potential risks, especially when combined with
+any kind of auxiliary data from other sources .
 
-In [@doi:10.1080/10447318.2017.1357902][@cite-key], the authors have
-determined some critical psychological factors that affect the adoption
-of smartwatches, and we leverage the analysis from the paper to
-underscore the fact that privacy concerns are not key amongst the people
-adopting smartwatches, or smart wearable devices. We have referred to
-the respective privacy policies for the products that we would be
-studying, namely, Apple Watch [@apple-policy], Snap Spectacles
-[@snap-policy], and Levi's Tucker Jacket [@levis-policy].
+In , the authors have determined some critical psychological factors
+that affect the adoption of smartwatches, and we leverage the analysis
+from the paper to underscore the fact that privacy concerns are not key
+amongst the people adopting smartwatches, or smart wearable devices. We
+have referred to the respective privacy policies for the products that
+we would be studying, namely, Apple Watch , Snap Spectacles , and Levi’s
+Tucker Jacket .
 
 By using this data, we will be working towards the hypothesis that if
 given enough information, consumers would change their mind about
 adopting new smart wearable devices, if there are any privacy concerns.
 
-Approach
-========
+# Approach
 
 For this study, we divided the wearable smart devices space into three
 broad categories:
 
--   Watches and Trackers
+  - Watches and Trackers
 
--   Glasses
+  - Glasses
 
--   Clothing
+  - Clothing
 
 Each category is unique because of the various types of data collected
 (such as smart glasses collect data about location and images, whereas
@@ -124,17 +73,17 @@ their privacy policies to understand the information collected by the
 respective devices, at the same time, also realizing if the data
 collected is in line with the product category. We also looked for
 possible vulnerabilities in their policies, which might compromise the
-user's identity in some scenarios. Additionally, we created a user study
-[@privacyproject] covering the various aspects of the policies and how
-the data collected could be used by brands for their businesses. The
-user study included user awareness and acceptance of data sharing and
-storage practices, anonymization steps, sensitive data encryption
-measures, and transmission security. We also analyzed how easy it is for
-users to be able to modify or opt-out of these settings. We understood
-the relevance of the information collected by the devices and verified
-their importance under their respective scopes. The analysis included
+user’s identity in some scenarios. Additionally, we created a user study
+ covering the various aspects of the policies and how the data collected
+could be used by brands for their businesses. The user study included
+user awareness and acceptance of data sharing and storage practices,
+anonymization steps, sensitive data encryption measures, and
+transmission security. We also analyzed how easy it is for users to be
+able to modify or opt-out of these settings. We understood the relevance
+of the information collected by the devices and verified their
+importance under their respective scopes. The analysis included
 activities to determine whether an application needs permission for a
-particular feature and are users aware of these "hidden" features.
+particular feature and are users aware of these “hidden” features.
 
 Finally, we designed user surveys in correspondence with the results of
 our study of their privacy policies. For example: First, we will be
@@ -146,16 +95,14 @@ that once the users are aware, their outlook might change, change their
 minds about buying a particular product, which also gave us useful
 responses to gauge user awareness as well.
 
-Study Design {#studyDesign}
-============
+# Study Design
 
 We designed a Google survey that helped us collect the relevant data
 that we needed to perform the user study. The flow chart for the survey
-is shown in Figure **[1](#flowchart){reference-type="ref"
-reference="flowchart"}**. We asked the participant for their desired
-products and presented the questions accordingly. For each product, we
-asked the participant what they think about the product's privacy
-options and implications. Once the participant has answered the
+is shown in Figure **[1](#flowchart)**. We asked the participant for
+their desired products and presented the questions accordingly. For each
+product, we asked the participant what they think about the product’s
+privacy options and implications. Once the participant has answered the
 questions, we present the participant with the information from each of
 the privacy policies. We ask whether knowing the privacy concerns (if
 any) changes their perspective about the product and consequently change
@@ -164,12 +111,12 @@ their decision to own/not own a product. At the end of the survey, about
 of the privacy implications regarding any particular product, their
 decision would change from their initial assumption.
 
-We have focused on specific areas and topics from each product's privacy
+We have focused on specific areas and topics from each product’s privacy
 policy, and the questions are designed in a way that addresses all major
 privacy concerns. For example, the set of questions for Apple Watch
 focuses more on the mobile application and health data privacy. The set
 of questions for Snap Spectacles focuses more on location, and image
-data privacy. The set of questions for Levi's jacket focuses more on
+data privacy. The set of questions for Levi’s jacket focuses more on
 personal, location, and health data being exposed. The options for the
 questions were designed such that not all options are correct for each
 product. Some options are incorrect, and hence, if a user submits them,
@@ -179,30 +126,27 @@ options were correct.
 In total, we received **51** responses, including the people who
 reviewed multiple categories counted separately. **58.8%** being for
 Apple Watch, **15.6%** being for Snapchat Glasses, and the remainder for
-Levi's Tucker Smart Jacket. Each category was reviewed by different
+Levi’s Tucker Smart Jacket. Each category was reviewed by different
 people, in general, and hence needed to be reviewed as so.
 
 ![Survey Design
-Flowchart[]{label="flowchart"}](Flowchart_privacyProject.png){#flowchart
-width="\\linewidth"}
+Flowchart<span label="flowchart"></span>](Flowchart_privacyProject.png)
 
-Analysis
-========
+# Analysis
 
-Apple {#appleAnalysis}
------
+## Apple
 
 The majority of the responses were for Apple Watch; around 30 people
 responded for this part of the survey. There were a total of five
 questions that were designed to gauge the privacy awareness level
-amongst the participants. The questions were linked directly to Apple's
+amongst the participants. The questions were linked directly to Apple’s
 privacy policy. A few topics that the questions covered revolved around
 the topic of permanent deletion of data, reset of digital fingerprint,
 limiting ad-tracking, and Apple profiling users based on the data they
 collect.
 
-For the question "Do you think you can ask Apple to delete the data
-collected from you permanently?" about **26%** of the participants
+For the question “Do you think you can ask Apple to delete the data
+collected from you permanently?” about **26%** of the participants
 thought they could whereas Apple provides easy steps to delete all the
 data that was collected from the devices. This information though
 explicitly mentioned in the Privacy Policy, is never shown during the
@@ -210,34 +154,33 @@ initial setup of the Apple Watch, or for that matter, any Apple product.
 If the users had been aware of this information, they could decide for
 themselves how to control the data.
 
-For the question "Do you think Apple provides a way to limit ad-tracking
-for Apple Watch?" around **40%** of the participants thought they could.
+For the question “Do you think Apple provides a way to limit ad-tracking
+for Apple Watch?” around **40%** of the participants thought they could.
 We hypothesize the increase in awareness for this question because Apple
 gives this option in the Privacy settings of the Watch, iPhone, and
 other Apple products. Participants are more likely to find information
 that they have easy access to, rather than the information they have to
 search for like the previous question.
 
-![User Responses](00-chart.png){width="\\linewidth"}
+![User Responses](00-chart.png)
 
-For the question "Do you think you can reset your digital fingerprint
-generated for your Apple Watch?" roughly **40%** of the participants
+For the question “Do you think you can reset your digital fingerprint
+generated for your Apple Watch?” roughly **40%** of the participants
 answered in the affirmative. The number is similar to the previous
 question as the two options are on the same page, so we hypothesize that
 the people answered in the positive for the previous question are the
 same people who answered this question correctly.
 
-Finally, we asked two questions that asked about the participants'
-perspective on whether Apple shares the user's data for marketing
+Finally, we asked two questions that asked about the participants’
+perspective on whether Apple shares the user’s data for marketing
 purposes or uses the data to profile the users. Around **80%** of the
 participants answered in the positive. According to the privacy policy,
-Apple doesn't. We hypothesize this high positive response is because of
+Apple doesn’t. We hypothesize this high positive response is because of
 the general norm that companies usually follow about data sharing
 practices. We say the general norm because **60%** of the participants
 out of the **60%** had not taken the privacy course with us.
 
-![Participant
-Awareness](01-AwarenessAmongstParticipants-Apple.png){width="\\linewidth"}
+![Participant Awareness](01-AwarenessAmongstParticipants-Apple.png)
 
 Amongst our participants **50%** already owned an Apple watch. So we
 first focus on the remainder of the **50%** participants. At the
@@ -255,26 +198,23 @@ statement as to what they would be doing with their apple watch. Around
 survey was useful, and that they would better use this information to
 protect themselves in the future.
 
-In Fig [2](#fig:change){reference-type="ref" reference="fig:change"} on
-page , we see a correlation matrix we see that for the questions for
-which we had the least user awareness, are the questions for which we
-see a higher correlation between that question and the reason for the
-change in perspective. The questions that are highlighted are the
-questions for profiling users and apple sharing users' data for
-marketing purposes. We see a little to no correlation for the question
-which involved limiting ad tracking and resetting digital fingerprint,
-though there is some correlation, we hypothesize that is because almost
-**60%** of the users cumulatively were aware of that feature, or thought
-that it was possible. Although correlation is not causation in all
-cases, the data, in this case, does tip the scale in the other
-direction.
+In Fig [2](#fig:change) on page , we see a correlation matrix we see
+that for the questions for which we had the least user awareness, are
+the questions for which we see a higher correlation between that
+question and the reason for the change in perspective. The questions
+that are highlighted are the questions for profiling users and apple
+sharing users’ data for marketing purposes. We see a little to no
+correlation for the question which involved limiting ad tracking and
+resetting digital fingerprint, though there is some correlation, we
+hypothesize that is because almost **60%** of the users cumulatively
+were aware of that feature, or thought that it was possible. Although
+correlation is not causation in all cases, the data, in this case, does
+tip the scale in the other direction.
 
 ![Correlation matrix for change of
-perspective[]{label="fig:change"}](05-changePerspective-1.png){#fig:change
-width="\\linewidth"}
+perspective<span label="fig:change"></span>](05-changePerspective-1.png)
 
-In Fig [3](#fig:changeDos){reference-type="ref"
-reference="fig:changeDos"} on page , we see a similar trend, as in the
+In Fig [3](#fig:changeDos) on page , we see a similar trend, as in the
 previous one. The categories for Call-logs, Photos, and Videos have a
 slightly positive correlation because the majority of the participants
 thought those data-points are collected. In contrast, according to the
@@ -297,14 +237,13 @@ Apple until explicitly shared with Apple via either the Health App or
 the Research App.
 
 ![Correlation matrix for change of
-perspective[]{label="fig:changeDos"}](06-changePerspective-2.png){#fig:changeDos
-width="\\linewidth"}
+perspective<span label="fig:changeDos"></span>](06-changePerspective-2.png)
 
 We also carried out another survey that gauged people into different
-categories, according to Westin's index. While deciding which questions
+categories, according to Westin’s index. While deciding which questions
 to ask in the survey, we wanted to revolve around the theme of the
-Westin's survey and thus asked questions that had a "Linear-Scale" in
-which people could answer. Moreover, having read the Apple's privacy
+Westin’s survey and thus asked questions that had a ”Linear-Scale” in
+which people could answer. Moreover, having read the Apple’s privacy
 policy, we had noticed that many businesses do not provide a way to
 delete the data collected, so we wanted to gather user sentiment on that
 aspect as well. We also wanted to understand whether different users
@@ -313,18 +252,17 @@ institutions that use health data for health studies and advertisers
 that use the data for digital marketing.
 
 ![Responses from second
-survey[]{label="fig:responses"}](07-chart2.png){#fig:responses
-width="\\linewidth"}
+survey<span label="fig:responses"></span>](07-chart2.png)
 
 15 people replied to the survey. **60%** of which do not own a fitness
 tracker. **60%** of the participants that own a fitness tracker were
 concerned that the fitness trackers track locations, and the data can be
-harnessed for targeted advertisements. **40%** of the people who don't
-own a fitness tracker suggest that they don't find it justifiable for
+harnessed for targeted advertisements. **40%** of the people who don’t
+own a fitness tracker suggest that they don’t find it justifiable for
 the businesses to store health data.
 
-**80%** of the people are concerned that businesses don't provide a way
-to delete user's data permanently. And **85%** of the participants are
+**80%** of the people are concerned that businesses don’t provide a way
+to delete user’s data permanently. And **85%** of the participants are
 uncomfortable sharing their data with advertisers, but **60%** are
 comfortable sharing with health institutions for health data studies.
 
@@ -335,11 +273,9 @@ relatively low because of the age of the participants, which was
 relatively young.
 
 ![Classifying users into
-group[]{label="fig:responsesSecondSurvey"}](09-chart.png){#fig:responsesSecondSurvey
-width="\\linewidth"}
+group<span label="fig:responsesSecondSurvey"></span>](09-chart.png)
 
-Snap Spectacles {#snapchatAnalysis}
----------------
+## Snap Spectacles
 
 Snap Spectacles are spectacles that allow the user to record short
 bursts of video, click images, apply filters, and share them with their
@@ -355,18 +291,17 @@ privacy and encryption policies, user knowledge about what types of data
 could be collected at what times, data deletion policies, etc.
 
 ![Do you think Snap collects data from your
-Spectacles?](snap_data_collect.png){width="\\linewidth"}
+Spectacles?](snap_data_collect.png)
 
-[\[fig:snap\_data\_collect\]]{#fig:snap_data_collect
-label="fig:snap_data_collect"}
+<span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
-For the first question in the Snap section of the survey, \"Do you think
-Snap collects data from your Spectacles?\" an overwhelming **88%** users
+For the first question in the Snap section of the survey, "Do you think
+Snap collects data from your Spectacles?" an overwhelming **88%** users
 thought in the affirmative. This shows that respondents of the survey
 are acutely aware of data collection by the company in some form, and
 understand that there might be some form of privacy risk associated with
 it. It is also important to note that, the remaining **12%** users
-answered the question as *\"Maybe\"* instead of *\"No\"*. Thus, no user
+answered the question as *"Maybe"* instead of *"No"*. Thus, no user
 thought that the product did not collect or share any data at all. This
 might also be indicative of low trust in social media companies due to
 current events.
@@ -381,35 +316,31 @@ derived from these two questions is that users were generally aware that
 Spectacles collect user data, and all data collected by Snap was
 accessible to the user if needed.
 
-![Do you think Snap stores your information even after you've deleted
-your account?](snap_collect_after_delete.png){width="\\linewidth"}
+![Do you think Snap stores your information even after you’ve deleted
+your account?](snap_collect_after_delete.png)
 
-[\[fig:snap\_data\_collect\]]{#fig:snap_data_collect
-label="fig:snap_data_collect"}
+<span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
 Another question in the survey that revealed some significant findings
-was the question, \"Do you think Snap stores your information even after
-you've deleted your account?\". Although respondents' opinions were
+was the question, "Do you think Snap stores your information even after
+you’ve deleted your account?". Although respondents’ opinions were
 divided in this survey, a majority of them, namely **62.5%** users
 thought that Snap either did not store information after account
-deletion or was unsure. This was in alignment with the official policy
-[@snap-policy]. The Snap privacy policy [@snap-policy] also does not
-clearly explain the steps that will be taken to erase the data for an
-account that has been deleted.
+deletion or was unsure. This was in alignment with the official policy .
+The Snap privacy policy  also does not clearly explain the steps that
+will be taken to erase the data for an account that has been deleted.
 
-![Types of data collected by Snap](snap_data_type.png){height="5cm"
-width="\\linewidth"}
+![Types of data collected by Snap](snap_data_type.png)
 
-[\[fig:snap\_data\_collect\]]{#fig:snap_data_collect
-label="fig:snap_data_collect"}
+<span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
-For the question \"What types of data do you think Snap collects?\", a
+For the question "What types of data do you think Snap collects?", a
 large number of respondents (greater than five) were able to correctly
 answer the most commonly collected types of data such as photos and
 video, location services and the frequency and nature of messages with
 friends. However, only one respondent knew that they were also
 collecting information on how many and which apps are installed on a
-particular user's phone. It is also surprising that only two respondents
+particular user’s phone. It is also surprising that only two respondents
 knew that Snap could also collect data from their microphone despite it
 primarily being a videos oriented app. Some of the respondents knew that
 Snap was also collecting information on phone contacts and logs, user
@@ -433,40 +364,37 @@ people in the vicinity of the wearer as a ring of light is visible in
 the rim of the Spectacles whenever images or videos are being captured.
 
 ![Companies which can access data through services offered by Snap
-according to respondents](snap_companies.png){height="5cm"
-width="\\linewidth"}
+according to respondents](snap_companies.png)
 
-[\[fig:snap\_data\_collect\]]{#fig:snap_data_collect
-label="fig:snap_data_collect"}
+<span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
 Since the goal of our study was to analyze whether the user perspective
 would change if they knew more about the data collection policies of a
-particular product, we decided to test our respondents' knowledge of the
+particular product, we decided to test our respondents’ knowledge of the
 data sharing practices adopted by Snap and then inform them of the
 correct policies. One of our questions asked respondents to mark all
 companies who they thought had access to their Spectacles data.
 **87.5%** users thought that Snap shared data with Facebook, and
 **62.5%** users thought Snap also shared data with Google. According to
-Snap's privacy policy [@snap-policy], they do not share data with
-Facebook, but they do share location and advertisement data with Google.
-These results are not surprising as a lot of their previously unknown
-data collection policies have been highlighted [@facebookdatashare] in
-the media in recent days. Thus users could have speculated that Facebook
-also has access to advertisement data via Snap, among other sources.
+Snap’s privacy policy , they do not share data with Facebook, but they
+do share location and advertisement data with Google. These results are
+not surprising as a lot of their previously unknown data collection
+policies have been highlighted  in the media in recent days. Thus users
+could have speculated that Facebook also has access to advertisement
+data via Snap, among other sources.
 
 On the other hand, only **12.5%** users thought that Snap shared its
 location data with Uber Inc and another **25%** thought that they shared
-location data with Lyft. According to the privacy policy of Snap
-[@snap-policy], both of these are true. Thus, we can see that users were
-ill-informed about the data-sharing practices adopted by Snap, and had
-little knowledge of which specific companies had access to what type of
-data via the Snapchat app.
+location data with Lyft. According to the privacy policy of Snap , both
+of these are true. Thus, we can see that users were ill-informed about
+the data-sharing practices adopted by Snap, and had little knowledge of
+which specific companies had access to what type of data via the
+Snapchat app.
 
 ![Does knowing this information change your mind about buying Snap
-spectacles?](snap_change_perspective.png){width="\\linewidth"}
+spectacles?](snap_change_perspective.png)
 
-[\[fig:snap\_data\_collect\]]{#fig:snap_data_collect
-label="fig:snap_data_collect"}
+<span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
 At the end of the Snap Spectacles section, we asked the respondent if
 knowing the information that they had just learned changed their minds
@@ -475,16 +403,15 @@ to this question. This signifies that a medium to a high volume of users
 changed their perspective towards buying the Snap Spectacles after they
 were introduced to all the data collection, storage, and sharing
 practices adopted by Snap. These users were unaware of the specific
-companies that had access to their data, the \"hidden\" types of data
-that were being collected, and the amount of time for which their
-information was stored even after they had deleted their account.
+companies that had access to their data, the "hidden" types of data that
+were being collected, and the amount of time for which their information
+was stored even after they had deleted their account.
 
-Levi's Trucker Jacket {#levisAnalysis}
----------------------
+## Levi’s Trucker Jacket
 
 A relatively new product in comparison to the other two products.
 Therefore a brief introduction was provided to the participants to
-familiarize them with the product. Levi's trucker jacket with Jacquard
+familiarize them with the product. Levi’s trucker jacket with Jacquard
 by Google is an advanced technology jacket that enables you to connect
 your clothes to your smartphone over wireless networks seamlessly.
 
@@ -492,14 +419,13 @@ The motivation for creating this product was to stay connected at all
 times, but not being distracted at the same time. The fact of sensors
 woven into your clothing helps you to focus on your tasks and also be
 updated with the latest notifications from your device. It was initially
-designed for cyclists as a part of Levi's commuter series, but it has
+designed for cyclists as a part of Levi’s commuter series, but it has
 been extended to more features to enhance the everyday experience.
 
-![Levi's Trucker Jacket with Jacquard by
-Google[]{label="fig:jacketOne"}](jacket.png){#fig:jacketOne
-width="\\linewidth"}
+![Levi’s Trucker Jacket with Jacquard by
+Google<span label="fig:jacketOne"></span>](jacket.png)
 
-According to Levi's, they initiate with their iconic trucker jacket and
+According to Levi’s, they initiate with their iconic trucker jacket and
 then incorporate sensors provided by Jacquard into the left sleeve. Now
 that the sensors ware woven into your clothing itself, you can pair it
 with your device and perform basic tasks just by making gestures through
@@ -507,8 +433,7 @@ your sleeve. All the notifications, alerts, and actions are performed
 without even looking at the screen of your device.
 
 ![Gestures used to operate the
-Jacket[]{label="fig:jacketTwo"}](functions.png){#fig:jacketTwo
-width="\\linewidth"}
+Jacket<span label="fig:jacketTwo"></span>](functions.png)
 
 Due to the fact that it was a relatively new product, getting access to
 relevant information was a challenge. However, this introduced an
@@ -518,35 +443,32 @@ index of the product, as **70%** of the participants were females.
 Additionally, many of the users did not even know that the jacket is
 partnered with Google.
 
-![Do you know Levi's Jacket is partnered with
-Google?[]{label="fig:jacketThree"}](partner.png){#fig:jacketThree
-width="\\linewidth"}
+![Do you know Levi’s Jacket is partnered with
+Google?<span label="fig:jacketThree"></span>](partner.png)
 
-Moreover, more than **50%** users didn't even think that the jacket
+Moreover, more than **50%** users didn’t even think that the jacket
 collected any data. This confirmed our hypothesis that the users are not
 much aware of smart wearable devices in general.
 
 ![Do you think the jacket collects your
-data?[]{label="fig:jacketFour"}](collect.png){#fig:jacketFour
-width="\\linewidth"}
+data?<span label="fig:jacketFour"></span>](collect.png)
 
 On the other hand, we also asked users what kind of data does the jacket
 collect, and the responses were varied all across, with contact
 information being prevalent across all users. Studying the privacy
-policy of Levis' helped us identify the different types of data which is
-collected by them. The partnership between Levi's, Jacquard, and Google
+policy of Levis’ helped us identify the different types of data which is
+collected by them. The partnership between Levi’s, Jacquard, and Google
 exploded the study of privacy policies as the product can imply any
 information from any of their policies. However, going over their
 policies gave us critical insights into the product and its privacy
-implications. User's personal information is collected from time to time
+implications. User’s personal information is collected from time to time
 for many purposes, and but they will be notified to obtain their
 consent, where appropriate. Further, a user can accept/reject the use of
 your geolocation technologies, which may result in using limited
 features.
 
 ![Type of data collected by the
-Jacket[]{label="fig:jacketFive"}](type.png){#fig:jacketFive
-width="\\linewidth"}
+Jacket<span label="fig:jacketFive"></span>](type.png)
 
 The Jacquard App is used to access the following information from your
 device: Camera, Location (active every time), Ride-sharing Apps, Music,
@@ -556,28 +478,27 @@ type of data. Most of the users were already aware the GPS keeps running
 in the background for this product.
 
 ![Data collected from your
-device[]{label="fig:jacketSix"}](device.png){#fig:jacketSix
-width="\\linewidth"}
+device<span label="fig:jacketSix"></span>](device.png)
 
 Furthermore, we extended our study to understand the information used in
 third-party sharing and advertising, as well. We came to know that
-Levi's does not share user's personal information with third parties for
-their specific independent marketing purposes. In contrast, around
-**86%** of users though that Levi's shares their information with
+Levi’s does not share user’s personal information with third parties
+for their specific independent marketing purposes. In contrast, around
+**86%** of users though that Levi’s shares their information with
 third-party sources for their independent-marketing purposes. However,
 around the same amount of users also thought that it permits
-Internet-based advertising, which was true. As Levi's permits
-third-parties to collect user's browsing information and numerical
+Internet-based advertising, which was true. As Levi’s permits
+third-parties to collect user’s browsing information and numerical
 identifiers associated with their browser or device.
 
 Interestingly, a user does not even need to purchase a product for
-Levi's to share his/her browsing information with a business partner
-that sends advertisements on Levi's behalf. This was predicted correctly
-only by **50%** users. Based on the user's response to the survey
+Levi’s to share his/her browsing information with a business partner
+that sends advertisements on Levi’s behalf. This was predicted correctly
+only by **50%** users. Based on the user’s response to the survey
 questions, we computed scores to represent the level of user awareness
-for this specific product. This also included questions like 'Whom do
-you think Levi's shares your data with?' and 'How do you think Levi's
-use your information?'. Levi's shares user's data with Payment
+for this specific product. This also included questions like ’Whom do
+you think Levi’s shares your data with?’ and ’How do you think Levi’s
+use your information?’. Levi’s shares user’s data with Payment
 providers, Logistics providers, Customer Service providers, Ad
 providers, Analytic and AI partners as well as Marketing providers.
 Furthermore, it uses the information to Fulfil transactional
@@ -587,37 +508,30 @@ experience, Analyse, personalize and optimize features, and connecting
 with other social platforms and IoT applications(Alexa, Google
 Assistant)
 
-![User Awareness
-scores[]{label="fig:jacketSeven"}](aware.png){#fig:jacketSeven
-width="\\linewidth"}
+![User Awareness scores<span label="fig:jacketSeven"></span>](aware.png)
 
 According to the scores computed for user awareness, only **43%** users
 were mostly aware, and the average was close to **50%**, which is
-represented in Figure [12](#fig:jacketSeven){reference-type="ref"
-reference="fig:jacketSeven"}. Finally, coming over to our core
-hypothesis of the entire study did this information change user's
-perception in their opinions for the product. Among the three categories
-of smart wearable devices, smart clothing experienced the **highest
-change in user perception**, which was close to **62%** (represented in
-Figure [13](#fig:jacketEight){reference-type="ref"
-reference="fig:jacketEight"}).
+represented in Figure [12](#fig:jacketSeven). Finally, coming over to
+our core hypothesis of the entire study did this information change
+user’s perception in their opinions for the product. Among the three
+categories of smart wearable devices, smart clothing experienced the
+**highest change in user perception**, which was close to **62%**
+(represented in Figure [13](#fig:jacketEight)).
 
 ![Change in User
-perception[]{label="fig:jacketEight"}](perception.png){#fig:jacketEight
-width="\\linewidth"}
+perception<span label="fig:jacketEight"></span>](perception.png)
 
-Limitation and Future Work {#limitationAndFutureWork}
-==========================
+# Limitation and Future Work
 
 A limitation of the study was that we never created any Personas for the
 people who could potentially be part of the survey. The survey could
 have been more focused. The current study gives some correlation between
-the variables collected, as shown in section
-**[5.1](#appleAnalysis){reference-type="ref"
-reference="appleAnalysis"}** on page . To provide a stronger correlation
-between the different variables, additional information would be needed.
-The additional information would be to map the factors responsible for
-influencing the decision of the users.
+the variables collected, as shown in section **[5.1](#appleAnalysis)**
+on page ****. To provide a stronger correlation between the different
+variables, additional information would be needed. The additional
+information would be to map the factors responsible for influencing the
+decision of the users.
 
 Using this additional information a focus group can be used to
 understand if a product with all the variables with the highest
@@ -630,19 +544,17 @@ for different categories of the smart wearable device, between the
 specific policies and the derive ways to make a privacy policy more
 impactful than it currently is.
 
-Github Repository
-=================
+# Github Repository
 
 We have also added all the data and analysis code into a Github
 repository which also includes other data sources that we may have
 reference but not specifically mentioned or used in the final analysis.
 <https://github.com/jubeenshah/privacyProject>
 
-Individual Contributions
-========================
+# Individual Contributions
 
 All members have contributed equally to this project. Sujal has worked
-on the background and motivation of the project, Levi's Jacket portion
+on the background and motivation of the project, Levi’s Jacket portion
 of the survey. Gautam Worah has worked on the problem statement,
 approach, and Snap Spectacles portion of the survey. Jubeen Shah has
 worked on the study design, future work, and Apple Watch portion of the
