@@ -317,7 +317,7 @@ Spectacles collect user data, and all data collected by Snap was
 accessible to the user if needed.
 
 ![Do you think Snap stores your information even after you’ve deleted
-your account?](snap_collect_after_delete.png)
+your account?](./images/snap_collect_after_delete.png)
 
 <span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
@@ -330,7 +330,7 @@ deletion or was unsure. This was in alignment with the official policy .
 The Snap privacy policy  also does not clearly explain the steps that
 will be taken to erase the data for an account that has been deleted.
 
-![Types of data collected by Snap](snap_data_type.png)
+![Types of data collected by Snap](./images/snap_data_type.png)
 
 <span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
@@ -364,7 +364,7 @@ people in the vicinity of the wearer as a ring of light is visible in
 the rim of the Spectacles whenever images or videos are being captured.
 
 ![Companies which can access data through services offered by Snap
-according to respondents](snap_companies.png)
+according to respondents](./images/snap_companies.png)
 
 <span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
@@ -392,7 +392,7 @@ which specific companies had access to what type of data via the
 Snapchat app.
 
 ![Does knowing this information change your mind about buying Snap
-spectacles?](snap_change_perspective.png)
+spectacles?](./images/snap_change_perspective.png)
 
 <span id="fig:snap_data_collect" label="fig:snap_data_collect">\[fig:snap\_data\_collect\]</span>
 
@@ -423,7 +423,7 @@ designed for cyclists as a part of Levi’s commuter series, but it has
 been extended to more features to enhance the everyday experience.
 
 ![Levi’s Trucker Jacket with Jacquard by
-Google<span label="fig:jacketOne"></span>](jacket.png)
+Google<span label="fig:jacketOne"></span>](./images/jacket.png)
 
 According to Levi’s, they initiate with their iconic trucker jacket and
 then incorporate sensors provided by Jacquard into the left sleeve. Now
@@ -433,7 +433,7 @@ your sleeve. All the notifications, alerts, and actions are performed
 without even looking at the screen of your device.
 
 ![Gestures used to operate the
-Jacket<span label="fig:jacketTwo"></span>](functions.png)
+Jacket<span label="fig:jacketTwo"></span>](./images/functions.png)
 
 Due to the fact that it was a relatively new product, getting access to
 relevant information was a challenge. However, this introduced an
@@ -444,14 +444,14 @@ Additionally, many of the users did not even know that the jacket is
 partnered with Google.
 
 ![Do you know Levi’s Jacket is partnered with
-Google?<span label="fig:jacketThree"></span>](partner.png)
+Google?<span label="fig:jacketThree"></span>](./images/partner.png)
 
 Moreover, more than **50%** users didn’t even think that the jacket
 collected any data. This confirmed our hypothesis that the users are not
 much aware of smart wearable devices in general.
 
 ![Do you think the jacket collects your
-data?<span label="fig:jacketFour"></span>](collect.png)
+data?<span label="fig:jacketFour"></span>](./images/collect.png)
 
 On the other hand, we also asked users what kind of data does the jacket
 collect, and the responses were varied all across, with contact
@@ -468,7 +468,7 @@ your geolocation technologies, which may result in using limited
 features.
 
 ![Type of data collected by the
-Jacket<span label="fig:jacketFive"></span>](type.png)
+Jacket<span label="fig:jacketFive"></span>](./images/type.png)
 
 The Jacquard App is used to access the following information from your
 device: Camera, Location (active every time), Ride-sharing Apps, Music,
@@ -478,7 +478,7 @@ type of data. Most of the users were already aware the GPS keeps running
 in the background for this product.
 
 ![Data collected from your
-device<span label="fig:jacketSix"></span>](device.png)
+device<span label="fig:jacketSix"></span>](./images/device.png)
 
 Furthermore, we extended our study to understand the information used in
 third-party sharing and advertising, as well. We came to know that
@@ -520,7 +520,7 @@ categories of smart wearable devices, smart clothing experienced the
 (represented in Figure [13](#fig:jacketEight)).
 
 ![Change in User
-perception<span label="fig:jacketEight"></span>](perception.png)
+perception<span label="fig:jacketEight"></span>](./images/perception.png)
 
 # Limitation and Future Work
 
