@@ -508,7 +508,7 @@ experience, Analyse, personalize and optimize features, and connecting
 with other social platforms and IoT applications(Alexa, Google
 Assistant)
 
-![User Awareness scores<span label="fig:jacketSeven"></span>](aware.png)
+![User Awareness scores<span label="fig:jacketSeven"></span>](./images/aware.png)
 
 According to the scores computed for user awareness, only **43%** users
 were mostly aware, and the average was close to **50%**, which is
